@@ -9,3 +9,6 @@ Công nghệ
 	• RESTful chuẩn
 	• Swagger + JWT
   monothic
+
+  expose API với ngrok:  ngrok http https://localhost:7271
+  tham số để domain cố định (có trả phí):  --domain=your-name.ngrok.app 
